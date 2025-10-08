@@ -18,14 +18,14 @@
 
 ### We've Hit a Wall 🧱
 
-**6 Months of Optimization Efforts:**
+**2 Months of Optimization Efforts:**
 - ✅ WebP image conversion
 - ✅ Lazy loading implementation  
 - ✅ DNS prefetching
 - ✅ Mobile-specific rendering
 - ✅ Code minification
 
-**Result:** Performance score 40-56 (stuck)
+**Result:** Performance score 40-60 (stuck)
 
 **The Problem:** We've maxed out our current tech stack's capabilities
 
@@ -57,10 +57,10 @@
 
 ### Recent Revamp Experiment
 
-**Phase 1:** Revamped body content only  
+**Phase 1:** Revamped body content only(ngo-crowdfunding)
 → Score: 56 ✅ Small improvement
 
-**Phase 2:** Added new header + footer  
+**Phase 2:** Added new header + footer (Revamped) 
 → Score: 40-45 ❌ Performance DECREASED!
 
 **Conclusion:**  
@@ -363,12 +363,6 @@ TOTAL: $660/month = $7,920/year
 - 2-3 developers (rotating)
 - 1 DevOps engineer (part-time)
 - External consultation (optional)
-
-**Training:**
-- React fundamentals: 2 weeks
-- Next.js specifics: 1 week
-- Best practices: 1 week
-- **Total: 4 weeks (can work while learning)**
 
 **Cost:** Minimal (mostly internal time)
 
