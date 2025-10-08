@@ -372,12 +372,6 @@ TOTAL: $660/month = $7,920/year
 
 ### Financial ROI
 
-**Investment:**
-- Development time: $50,000 (internal)
-- Training: $5,000
-- Tools/infrastructure: $2,000
-- **Total: $57,000**
-
 **Annual Returns:**
 - AWS cost savings: $8,000-27,000
 - Development efficiency: $40,000
@@ -440,7 +434,7 @@ TOTAL: $660/month = $7,920/year
 - Eventual forced rewrite (more expensive)
 
 **Performance:**
-- Stuck at 40-56 score
+- Stuck at 40-60 score
 - Google penalizes slow sites (2025 update)
 - Losing search rankings to competitors
 
@@ -689,7 +683,7 @@ const UserList = ({ users }) => {
 
 ### Ready to discuss further?
 
-**Contact:** [Your Email]  
+**Contact:** [sharvari.hupare@impactguru.com]  
 **Documents:** Available in shared drive  
 **Next Meeting:** Technical Deep Dive (Schedule?)
 
